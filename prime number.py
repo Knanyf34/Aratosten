@@ -10,8 +10,9 @@ for item,index in lst :
 for item,index in lst :
     if item == 1 :
         index += 1
-
 for item,index in lst :
+    if
+
 
 
 
