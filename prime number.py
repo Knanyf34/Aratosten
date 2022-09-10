@@ -1,8 +1,18 @@
-import math
-num = int(input())
-digits = int(math.log10(num))
-first_digit = int(num / pow(10, digits))
 
-while (num >= 10):
-    num = num // 10
-print('The first digit of number:', first_digit)
+val = input()
+
+lst = [None] * val
+
+for item,index in lst :
+    item = 1
+
+
+for item,index in lst :
+    if item == 1 :
+        index += 1
+
+for item,index in lst :
+
+
+
+
