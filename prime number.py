@@ -1,5 +1,5 @@
 import math
-num = int(input("Enter the number: "))
+num = int(input())
 digits = int(math.log10(num))
 first_digit = int(num / pow(10, digits))
 
